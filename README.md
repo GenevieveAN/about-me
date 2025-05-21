@@ -71,7 +71,7 @@ Having lived and worked across three continents—**Africa**, **Europe**, and **
 - 🔗 [SFMC Automations](https://github.com/GenevieveAN/sfmc-automation-examples)  
   Sample queries and workflows supporting send logging and performance tracking.
 
-- 🔗 [Data Cleaning Scripts](https://github.com/GenevieveAN/data-cleaning-scripts)  
+- 🔗 [Data Cleaning Scripts](https://github.com/GenevieveAN/Portfolio-Projects/tree/main/data_cleaning) 
   Utilities for preparing and cleaning campaign data.
 
 - 🔗 [Exploratory Data Analysis (EDA) Projects](https://github.com/GenevieveAN/Portfolio-Projects/tree/main/exploratory_analysis) 
