@@ -74,7 +74,7 @@ Having lived and worked across three continents—**Africa**, **Europe**, and **
 - 🔗 [Data Cleaning Scripts](https://github.com/GenevieveAN/data-cleaning-scripts)  
   Utilities for preparing and cleaning campaign data.
 
-- 🔗 [Exploratory Data Analysis (EDA) Projects](https://github.com/GenevieveAN?tab=repositories&q=EDA&type=&language=&sort=)  
+- 🔗 [Exploratory Data Analysis (EDA) Projects](https://github.com/GenevieveAN/Portfolio-Projects/tree/main/exploratory_analysis) 
   Using data to uncover trends and anomalies in historical datasets.
 
 ---
