@@ -11,7 +11,7 @@ From conducting market analysis and developing go-to-market strategies for healt
 Having lived and worked across three continents—**Africa**, **Europe**, and **North America**—I bring a unique understanding of how people, systems, and strategies interact in diverse global contexts.
 
 - **Higher Education**  
-  Currently at the University of Georgia, I evaluate the performance of large-scale communications campaigns across email, web, and social channels.  
+  Currently at the University of Georgia, I evaluate the performance of large-scale communications campaigns across email, web, paid media and social channels.  
 
 - **Health Tech Startup**  
   As a business consultant, I developed strategic plans and advised on market positioning to support growth and scalability.  
