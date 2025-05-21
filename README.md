@@ -65,10 +65,8 @@ Having lived and worked across three continents—**Africa**, **Europe**, and **
 
 ## 🧪 Selected Projects
 
-- 🔗 [Email Performance Dashboard](https://github.com/GenevieveAN/email-performance-dashboard)  
-  SQL-driven reporting and dashboard for campaign monitoring.
 
-- 🔗 [SFMC Automations](https://github.com/GenevieveAN/sfmc-automation-examples)  
+- 🔗 [SFMC Automations](https://github.com/GenevieveAN/Salesforce-Marketing-Cloud)
   Sample queries and workflows supporting send logging and performance tracking.
 
 - 🔗 [Data Cleaning Scripts](https://github.com/GenevieveAN/Portfolio-Projects/tree/main/data_cleaning) 
