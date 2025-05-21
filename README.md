@@ -35,7 +35,7 @@ Having lived and worked across three continents—**Africa**, **Europe**, and **
 - **Salesforce Marketing Cloud Automation**  
   Writing SQL queries, implementing send logging, and developing automation workflows to enhance reporting and efficiency.
 
-- **Talent Operations & Employer Branding**
+- **Talent Operations & Employer Branding**  
    Leveraging Boolean search logic and LinkedIn Talent Insights to support workforce planning, talent acquisition, employer branding, and international expansion.
 
 - **Data Cleaning & Reporting**  
