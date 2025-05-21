@@ -27,7 +27,7 @@ Having lived and worked across three continents—**Africa**, **Europe**, and **
   Building dashboards and analyzing campaigns to uncover insights that inform segmentation and targeting.
 
 - **Social Media Analytics & Listening**  
-  Utilizing **Hootsuite Analytics** and social listening tools to measure engagement and sentiment.
+  Utilizing **Hootsuite Analytics** and Boolean queries to measure engagement and sentiment.
 
 - **Web Performance Tracking**  
   Monitoring user behavior and optimizing customer journeys using **Google Analytics 4 (GA4)** and **Google Tag Manager**.
